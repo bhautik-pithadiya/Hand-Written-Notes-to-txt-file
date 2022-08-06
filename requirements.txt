@@ -1,0 +1,7 @@
+Flask
+numpy
+nltk
+gensim
+sklearn
+transformers
+torch
